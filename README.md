@@ -1,2 +1,2 @@
 # Hello-Universe
-This is to test how branchs work
+This is to test how branches work
